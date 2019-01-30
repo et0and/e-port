@@ -6,7 +6,7 @@ body {
   padding: 0;
   color: #000000;
   font-family: 'IBM Plex Mono', monospace;
-  background-color: #183f37;
+  background-color: #D5CEAD;
 }
 ul {
   list-style: none;
@@ -49,7 +49,7 @@ li {
   padding: 6%;
 }
 a {
-  color: #fff;
+  color: #044D5B;
   text-decoration: none;
 }
 a:hover {
