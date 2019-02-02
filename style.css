@@ -508,6 +508,9 @@ a:nth-child(6):hover {
 a:nth-child(7):hover {
   color:#efb804;
 }
+a:nth-child(7):hover {
+  color:#963f47;
+}
 @media only screen and (min-width: 600px) {  
   html {
     font-size: 19px;
